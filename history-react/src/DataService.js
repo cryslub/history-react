@@ -6,8 +6,8 @@ export default class DataService{
 		var self = this;
 	
 	
-		//self.host = "http://localhost:8001";
-		self.host = "";
+		self.host = "http://localhost:8001";
+		//self.host = "";
 
 		self.scene = scene;
 		
